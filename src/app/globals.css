@@ -285,6 +285,12 @@ footer {
   background-position: center;
   background-blend-mode: color;
 }
+.loading_screen {
+  background-image: url("assets/images/loading.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
 
 /* Keyframes */
 @keyframes mouse {
